@@ -47,11 +47,11 @@ The score increases by 1 for every correct answer. At the end, the program calcu
 | `show_results()` | Shows the score, percentage, message, and review | After question 10 |
 
 ## Screenshots
-![Start screen](screenshots/start.png)
-![Question screen](screenshots/question.png)
-![Answer feedback](screenshots/feedback.png)
-![Results screen](screenshots/results.png)
-![High score after reopening](screenshots/high_score.png)
+![Start screen](Start.png)
+![Question screen](Question.png)
+![Answer feedback](Feedback.png)
+![Results screen](Results.png)
+![High score after reopening](Highscore.png)
 
 ## Challenges I Faced
 The hardest part for me was that coding is confusing. At first, I didn't understand Python well. I solved it by watching tutorials on YouTube and TikTok, and by reading the code slowly and running the program to see what it does. One part I found difficult in this quiz was the timer, but after running the program and watching it count down, I understood how it works. Now I understand that coding is worth learning, but it needs patience.
