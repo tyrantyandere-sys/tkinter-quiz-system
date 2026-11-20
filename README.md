@@ -54,4 +54,8 @@ The score increases by 1 for every correct answer. At the end, the program calcu
 ![High score after reopening](Highscore.png)
 
 ## Challenges I Faced
-The hardest part for me was that coding is confusing. At first, I didn't understand Python well. I solved it by watching tutorials on YouTube and TikTok, and by reading the code slowly and running the program to see what it does. One part I found difficult in this quiz was the timer, but after running the program and watching it count down, I understood how it works. Now I understand that coding is worth learning, but it needs patience.
+One of the biggest challenges I faced while making this project was understanding how Python works. At first, I found coding confusing because there were many things I didn't understand yet. I used YouTube and TikTok tutorials to help me learn, and I also tried reading the code and running the program to see what each part does.
+
+The timer was one of the hardest parts for me because I didn't understand how it could count down automatically. After testing it several times, I slowly understood how it worked.
+
+While making this quiz, I realized that coding takes time, patience, and practice. Even though I struggled with some parts, I learned new things and became more familiar with Python.
